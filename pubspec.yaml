@@ -1,0 +1,78 @@
+name: project_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  shared_preferences: ^2.0.12
+  flutter_staggered_grid_view: ^0.7.0
+  flutter_rating_bar: ^4.0.0
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.16.0
+  cloud_firestore: ^4.14.0
+
+ 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/oran.jpg
+    - assets/images/jijel.jpg
+    - assets/images/constantine.jpg
+    - assets/images/alger.jpg
+    - assets/images/background.jpg
+    - assets/images/museum_cirta.jpg 
+    - assets/images/laMadersa.jpg
+    - assets/images/musee_combatant.jpg
+    - assets/images/qasar.jpg
+    - assets/images/dardiaf.jpg
+    - assets/images/caleche.jpg
+    - assets/images/bridge.jpg
+    - assets/images/ahmed.jpg
+    - assets/images/amir.jpg
+    - assets/images/marriothotelconstantine.jpg
+    - assets/images/novotelhotelconstantine.jpg
+    - assets/images/thegreathotelconstantine.jpg
+    - assets/images/antiqui.jpg
+    - assets/images/bardo.jpg
+    - assets/images/arts.jpg
+    - assets/images/jnina.jpg
+    - assets/images/perla.jpg
+    - assets/images/atelier.jpg
+    - assets/images/kasba.jpg
+    - assets/images/bas.jpg
+    - assets/images/martyr.jpg
+    - assets/images/sheratonhoteloran.jpg
+    - assets/images/steakhouserestooran.jpg
+    - assets/images/lesandalousesbeach.jpg
+    - assets/images/oranbeach.jpg
+    - assets/images/madaghbeach.jpg
+    - assets/images/sheratonhoteloran.jpg
+    - assets/images/royalhoteloran.jpg
+    - assets/images/meridienhoteloran.jpg
+    - assets/images/grandplagejijel.jpg
+    - assets/images/plagedesgrottesjijel.jpg
+    - assets/images/plagerougejijel.jpg
+    - assets/images/lacabanerestojijel.jpg
+    - assets/images/pizzeriaetcoffeejijel.jpg
+    - assets/images/havanarestojijel.jpg
+    - assets/images/cavesofjijel.jpg
+    - assets/images/lagrelighthousejijel.jpg
+    - assets/images/darazzhotaljijel.jpg
+    - assets/images/jazirahoteljijel.jpg
+    - assets/images/kotamahoteljijel.jpg
+
+
+
